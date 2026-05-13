@@ -1,6 +1,6 @@
 # MySoul
 
-*MySoul** is a Telegram bot based on `aiogram 3.x`, designed to automate the Telegram Business profile. The bot can automatically respond to messages on your behalf and provide utilities for working with custom emojis.
+**MySoul** is a Telegram bot based on `aiogram 3.x`, designed to automate the Telegram Business profile. The bot can automatically respond to messages on your behalf and provide utilities for working with custom emojis.
 
 ## Main functions
 - **Business Mode**: Automatic replies in personal chats through profile integration.
