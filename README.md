@@ -13,7 +13,7 @@
 ## Installation
 ### 1. Cloning a repository
 ```bash
-git clone [https://github.com/FaloonAI/mysoul.git](https://github.com/FaloonAI/mysoul.git)
+git clone https://github.com/FaloonAI/mysoul.git mysoul
 cd mysoul
 ```
 ### 2. Setting up the environment
